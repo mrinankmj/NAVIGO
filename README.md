@@ -9,16 +9,6 @@ An innovative multiplatform navigation system designed to simplify navigation us
 1. [About the Project](#about-the-project)
 2. [Key Features](#key-features)
 3. [Technologies Used](#technologies-used)
-4. [Getting Started](#getting-started)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Project Structure](#project-structure)
-8. [Screenshots](#screenshots)
-9. [Future Enhancements](#future-enhancements)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [Contact](#contact)
-
 ---
 
 ## 📝 About the Project
