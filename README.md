@@ -5,6 +5,10 @@ An innovative multiplatform navigation system designed to simplify navigation us
 
 ---
 
+2D Link : https://navigo-sigma.vercel.app/
+
+---
+
 ## 📌 Table of Contents
 1. [About the Project](#about-the-project)
 2. [Key Features](#key-features)
