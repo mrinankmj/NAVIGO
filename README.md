@@ -2,8 +2,8 @@
 
 Welcome to the **NAVIGO** project! 🚀  
 An innovative multiplatform navigation system designed to simplify navigation using both **2D and 3D models**. Whether you're exploring a city, navigating indoors, or traversing complex terrains, NAVIGO brings you closer to your destination with cutting-edge technology and seamless experiences.
-![Uploading image.png…]()
 
+![Uploading image.png…]()
 
 ---
 
@@ -37,12 +37,12 @@ An innovative multiplatform navigation system designed to simplify navigation us
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: ReactJS, React Native, Three.js
+- **Frontend**: ReactJS, SWIFT, SWIFT UI
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **APIs**: Google Maps API, OpenStreetMap
 - **Computer Vision & AR**: ARKit (iOS), LiDAR, OpenCV
-- **3D Modeling**: Blender, WebGL
+- **3D Modeling**: Blender
 - **Version Control**: Git, GitHub
 
 ---
