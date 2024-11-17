@@ -2,6 +2,8 @@
 
 Welcome to the **NAVIGO** project! 🚀  
 An innovative multiplatform navigation system designed to simplify navigation using both **2D and 3D models**. Whether you're exploring a city, navigating indoors, or traversing complex terrains, NAVIGO brings you closer to your destination with cutting-edge technology and seamless experiences.
+![Uploading image.png…]()
+
 
 ---
 
